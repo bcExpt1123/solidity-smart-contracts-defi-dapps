@@ -1,6 +1,2 @@
-node_modules
-*.js
-types
-
 package-lock.json
 yarn.lock
